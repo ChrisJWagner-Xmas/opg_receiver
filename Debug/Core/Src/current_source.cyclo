@@ -1,0 +1,3 @@
+current_source.c:13:7:get_emitter_current_mA	2
+current_source.c:27:10:get_emitter_current_lsb	2
+current_source.c:52:10:wait_for_cs_to_settle	4

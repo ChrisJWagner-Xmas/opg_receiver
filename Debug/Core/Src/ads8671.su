@@ -1,0 +1,6 @@
+../Core/Src/ads8671.c:4:6:serialize_cmd_msb_first	32	static
+../Core/Src/ads8671.c:15:10:spi_rx_word	24	static
+../Core/Src/ads8671.c:47:6:spi_tx_word	32	static
+../Core/Src/ads8671.c:86:10:spi_rx_tx_word	32	static
+../Core/Src/ads8671.c:125:10:get_ads8671_value_lsb	24	static,ignoring_inline_asm
+../Core/Src/ads8671.c:158:10:get_ads8671_value_ext_lsb	24	static,ignoring_inline_asm

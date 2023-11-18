@@ -1,0 +1,4 @@
+../Core/Src/sensor.c:38:10:measure_sensors	72	dynamic
+../Core/Src/sensor.c:76:6:measure_sensors_with_dc_offset	80	dynamic
+../Core/Src/sensor.c:129:5:check_sensor_currents	24	static
+../Core/Src/sensor.c:176:6:calculate_crosstalk	88	static
