@@ -1,3 +1,3 @@
 # opg_receiver
 
-Firmware for the opg hardfware revision 2.
+Firmware for the opg hardware revision 2.
